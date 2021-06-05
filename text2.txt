@@ -1,1 +1,1 @@
-This is some text from text2.txt
+Editing text from forked repository in text2.txt
